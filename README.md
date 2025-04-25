@@ -1,4 +1,4 @@
-# Proyecto-Final-ABET---Caja-Fuerte-
+# Proyecto-Final-ABET
 FaceGuard - Access Control System with Face Recognition
 # Sistema de Seguridad con Reconocimiento Facial
 
